@@ -1,3 +1,29 @@
+# Linear Regression
+![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
+
+Although a traditional subject in classical statistics, you can also consider Regression from a machine learning point of view. You'll learn more about the predictive capabilities and performance of regression algorithms. At the end of this chapter you'll be acquainted with simple linear regression, multi-linear regression. So let's take the first step into Machine Learning Algorithms
+
+## At a glance
+* In Class Instruction: 2 Hours
+  * In Class code along Dataset: Iowa Housing Prices
+  
+* Project Dataset:Iowa Housing Prices
+  * Estimated Time to complete Project Tasks: 1 Hour
+  * Total sub tasks within the Project: 6
+  * Complexity of sub tasks : Mid to High
+  * Points to be scored : 550
+  
+
+* Skills Rehearsed
+  * Apply Linear Regression in Python using sklearn
+
+## In-Class Activities
+* Recap of previous session
+* Instructor Monologue 
+* [Seeing Theory](http://students.brown.edu/seeing-theory/regression/index.html#first)
+* Linear Regression Jokes 
+  * [Extrapolating](https://imgs.xkcd.com/comics/extrapolating.png)
+  * [Toast](https://in.pinterest.com/pin/354799276869910837/)
 * Reverse Classroom (Nominate 1 person the next day)
   * Explain the following terms to a 5 year old 
     * Regularization
@@ -43,7 +69,4 @@ Iowa Dataset
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this dataset will help you determine aspects which influence price of a property other than sq.ft. area and locality. 
 
 Make your first prediction with our favourite ML algorithm!
-
-
-
 
