@@ -4,7 +4,7 @@
 Although a traditional subject in classical statistics, you can also consider Regression from a machine learning point of view. You'll learn more about the predictive capabilities and performance of regression algorithms. At the end of this chapter you'll be acquainted with simple linear regression, multi-linear regression. So let's take the first step into Machine Learning Algorithms
 
 ## At a glance
-* In Class Instruction: 2 Hours
+* In Class Instruction: 4 Hours
   * In Class code along Dataset: Iowa Housing Prices
   
 * Project Dataset:Iowa Housing Prices
